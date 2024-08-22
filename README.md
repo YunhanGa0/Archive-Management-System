@@ -3,7 +3,8 @@
 ## Overview
 
 This digital archive management system is designed to efficiently manage, store, and retrieve digital archives. The system integrates various technologies to provide robust features, including importing/exporting archives, asynchronous task processing, and real-time notifications.
-![image](https://github.com/user-attachments/assets/cfd2f953-4942-4198-b63d-ef8d76ebb413)
+![image](https://github.com/user-attachments/assets/eb25ff68-0b2a-43f7-97a4-88ce699a7372)
+
 
 
 ## Features
